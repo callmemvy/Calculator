@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="result">Result</string>
+    <string name="keyboard1">1</string>
+    <string name="keyboard2">2</string>
+    <string name="keyboard3">3</string>
+    <string name="keyboard4">4</string>
+    <string name="keyboard5">5</string>
+    <string name="keyboard6">6</string>
+    <string name="keyboard7">7</string>
+    <string name="keyboard8">8</string>
+    <string name="keyboard9">9</string>
+    <string name="keyboard0">0</string>
+    <string name="keyboardPoint">.</string>
+    <string name="keyboardBackspace">← Backspace</string>
+    <string name="keyboardLeftParenthesis">(</string>
+    <string name="keyboardRightParenthesis">)</string>
+    <string name="keyboardPlus">+</string>
+    <string name="keyboardMinus">-</string>
+    <string name="keyboardMultiply">×</string>
+    <string name="keyboardDivide">÷</string>
+</resources>
